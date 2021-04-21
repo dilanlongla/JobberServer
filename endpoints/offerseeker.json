@@ -1,0 +1,11 @@
+[
+    {
+        "id": {
+            "jobSeekerId": "0",
+            "jobOfferId": 0
+        },
+        "companyReview": true,
+        "seekerReview": false,
+        "interviewDate": "2020-09-14T00:00:00.000+00:00"
+    }
+]

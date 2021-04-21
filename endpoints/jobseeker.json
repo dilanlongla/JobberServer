@@ -1,0 +1,90 @@
+[
+    {
+        "id": "0",
+        "firstName": "john",
+        "lastName": "paul",
+        "email": "some@example.com",
+        "password": "67852555",
+        "phoneNumber": 645920145,
+        "linkedin": "link",
+        "facebook": "link",
+        "twitter": "link",
+        "website": "haibasoft/com",
+        "resume": "some history about you",
+        "dob": "2020-09-08T00:00:00.000+00:00",
+        "gender": "male",
+        "profilePhoto": "path",
+        "code": "cd45",
+        "country": "cameroon",
+        "town": "bamenda",
+        "street": "down town",
+        "certificationses": [
+            {
+                "id": 0,
+                "name": "java beginner course",
+                "organisation": "openclassroom",
+                "issueDate": "2020-09-10T07:31:18.000+00:00",
+                "expiryDate": null,
+                "credentialId": "jsadhas774as",
+                "credentialUrl": "http://www.someurl.com"
+            }
+        ],
+        "offerseekers": [
+            {
+                "id": {
+                    "jobSeekerId": "0",
+                    "jobOfferId": 0
+                },
+                "companyReview": true,
+                "seekerReview": false,
+                "interviewDate": "2020-09-14T00:00:00.000+00:00"
+            }
+        ],
+        "educations": [
+            {
+                "id": 0,
+                "institution": "IAI Cameroon",
+                "major": "Software Engineering",
+                "degree": "Bachelor's Degree",
+                "country": "Cameroon",
+                "town": "yaounde",
+                "street": "Nkolzie",
+                "description": "some additional about the educational program",
+                "startDate": "2020-06-15T04:11:24.000+00:00",
+                "endDate": "2020-09-09T03:09:16.000+00:00"
+            }
+        ],
+        "experiences": [
+            {
+                "id": 0,
+                "title": "title of the experience",
+                "tel": 678902145,
+                "email": "company@mail.com",
+                "company": "ENEO Cameroon",
+                "location": "Yaounde",
+                "description": "Some info about experience",
+                "startDate": "2020-09-07T00:00:00.000+00:00",
+                "endDate": "2020-09-16T07:09:17.000+00:00",
+                "country": "Cameroon",
+                "town": "Yaounde",
+                "street": "poste central"
+            }
+        ],
+        "languagespokens": [
+            {
+                "id": {
+                    "languageId": 1,
+                    "jobSeekerId": "0"
+                },
+                "languagelevel": "Native speaker"
+            },
+            {
+                "id": {
+                    "languageId": 0,
+                    "jobSeekerId": "0"
+                },
+                "languagelevel": "Native speaker"
+            }
+        ]
+    }
+]

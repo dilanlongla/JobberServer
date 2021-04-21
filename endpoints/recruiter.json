@@ -1,0 +1,111 @@
+[
+    {
+        "id": "0",
+        "recruiter": null,
+        "firstName": "dilan",
+        "lastName": "longla",
+        "tel": 678902145,
+        "email": "dilanlongla@yahoo.com",
+        "password": "dilanlongla",
+        "role": "Admin",
+        "joboffers": [
+            {
+                "id": 0,
+                "offerName": "App development ",
+                "startDate": "2020-08-12T00:00:00.000+00:00",
+                "endDate": "2020-08-29T00:00:00.000+00:00",
+                "postedDate": "2020-08-12T00:00:00.000+00:00",
+                "description": "description of the offer",
+                "salary": 150,
+                "skill": "dont yet know",
+                "offerStatus": true,
+                "type": "Internship",
+                "longitude": null,
+                "latitude": null,
+                "code": "coded",
+                "country": "cameroon",
+                "town": "yaounde",
+                "street": "mendong",
+                "offerseekers": [
+                    {
+                        "id": {
+                            "jobSeekerId": "0",
+                            "jobOfferId": 0
+                        },
+                        "companyReview": true,
+                        "seekerReview": false,
+                        "interviewDate": "2020-09-14T00:00:00.000+00:00"
+                    }
+                ]
+            }
+        ],
+        "operations": [
+            {
+                "id": 0,
+                "action": "delete",
+                "target": "what was deleted",
+                "datetime": "2020-03-09T12:13:21.000+00:00"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "recruiter": {
+            "id": "0",
+            "recruiter": null,
+            "firstName": "dilan",
+            "lastName": "longla",
+            "tel": 678902145,
+            "email": "dilanlongla@yahoo.com",
+            "password": "dilanlongla",
+            "role": "Admin",
+            "joboffers": [
+                {
+                    "id": 0,
+                    "offerName": "App development ",
+                    "startDate": "2020-08-12T00:00:00.000+00:00",
+                    "endDate": "2020-08-29T00:00:00.000+00:00",
+                    "postedDate": "2020-08-12T00:00:00.000+00:00",
+                    "description": "description of the offer",
+                    "salary": 150,
+                    "skill": "dont yet know",
+                    "offerStatus": true,
+                    "type": "Internship",
+                    "longitude": null,
+                    "latitude": null,
+                    "code": "coded",
+                    "country": "cameroon",
+                    "town": "yaounde",
+                    "street": "mendong",
+                    "offerseekers": [
+                        {
+                            "id": {
+                                "jobSeekerId": "0",
+                                "jobOfferId": 0
+                            },
+                            "companyReview": true,
+                            "seekerReview": false,
+                            "interviewDate": "2020-09-14T00:00:00.000+00:00"
+                        }
+                    ]
+                }
+            ],
+            "operations": [
+                {
+                    "id": 0,
+                    "action": "delete",
+                    "target": "what was deleted",
+                    "datetime": "2020-03-09T12:13:21.000+00:00"
+                }
+            ]
+        },
+        "firstName": "fotie",
+        "lastName": "constant",
+        "tel": 657156464,
+        "email": "fotie@gmail.com",
+        "password": "fotie",
+        "role": "recruiter",
+        "joboffers": [],
+        "operations": []
+    }
+]

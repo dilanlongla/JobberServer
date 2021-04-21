@@ -1,0 +1,31 @@
+[
+    {
+        "id": 0,
+        "offerName": "App development ",
+        "startDate": "2020-08-12T00:00:00.000+00:00",
+        "endDate": "2020-08-29T00:00:00.000+00:00",
+        "postedDate": "2020-08-12T00:00:00.000+00:00",
+        "description": "description of the offer",
+        "salary": 150,
+        "skill": "dont yet know",
+        "offerStatus": true,
+        "type": "Internship",
+        "longitude": null,
+        "latitude": null,
+        "code": "coded",
+        "country": "cameroon",
+        "town": "yaounde",
+        "street": "mendong",
+        "offerseekers": [
+            {
+                "id": {
+                    "jobSeekerId": "0",
+                    "jobOfferId": 0
+                },
+                "companyReview": true,
+                "seekerReview": false,
+                "interviewDate": "2020-09-14T00:00:00.000+00:00"
+            }
+        ]
+    }
+]

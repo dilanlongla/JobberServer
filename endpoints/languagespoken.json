@@ -1,0 +1,16 @@
+[
+    {
+        "id": {
+            "languageId": 0,
+            "jobSeekerId": "0"
+        },
+        "languagelevel": "Native speaker"
+    },
+    {
+        "id": {
+            "languageId": 1,
+            "jobSeekerId": "0"
+        },
+        "languagelevel": "Native speaker"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "institution": "IAI Cameroon",
+        "major": "Software Engineering",
+        "degree": "Bachelor's Degree",
+        "country": "Cameroon",
+        "town": "yaounde",
+        "street": "Nkolzie",
+        "description": "some additional about the educational program",
+        "startDate": "2020-06-15T04:11:24.000+00:00",
+        "endDate": "2020-09-09T03:09:16.000+00:00"
+    }
+]

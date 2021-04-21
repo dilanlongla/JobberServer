@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "languageName": "English",
+        "languagespokens": [
+            {
+                "id": {
+                    "languageId": 0,
+                    "jobSeekerId": "0"
+                },
+                "languagelevel": "Native speaker"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "languageName": "French",
+        "languagespokens": [
+            {
+                "id": {
+                    "languageId": 1,
+                    "jobSeekerId": "0"
+                },
+                "languagelevel": "Native speaker"
+            }
+        ]
+    }
+]
